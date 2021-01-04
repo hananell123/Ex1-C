@@ -3,7 +3,7 @@
 int main() {
 
 printf("please insert a real number");
-double a;
+double a;h
 if (scanf ("%lf",&a) != 1){
 printf("Invalid input");
 return 0;
